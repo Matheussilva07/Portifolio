@@ -1,0 +1,12 @@
+body{
+background-image: url(./img/planodefundo.jpg);
+margin: 0;
+}
+
+#conteiner{
+border: 1px solid;color: red;
+width: 800px;
+height: 1000px;
+margin: auto;
+background-color: aliceblue;
+}
