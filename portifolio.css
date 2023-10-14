@@ -1,5 +1,5 @@
 body{
-background-image: url(./img/fundo.jpg);
+background-image: url(./img/pexels-karolina-grabowska-4814061.jpg);
 margin: 0;
 color: white;
 font-family: Varela Round;
@@ -86,7 +86,7 @@ position: relative;
 left: 4.5cm;
 top: 4cm;}
 
-img{
+img{border-radius: 20px;
 width: 8cm;
 height: 10cm;
 position: relative;
