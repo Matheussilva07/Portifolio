@@ -1,13 +1,12 @@
 body{
 background-image: url(./img/fundo.jpg);
 margin: 0;
-
+color: white;
+font-family: Varela Round;
 }
 
 #corpointeiro{border: 1px;
-    width: 100%;
-    
-}
+    width: 100%;}
 
 #cabecalho{/*background-color: rgba(60, 115, 164, 0.535);*/
   border: 1px;
@@ -15,9 +14,7 @@ margin: 0;
   height: 100px;
   display: flex;
   align-items: center;
-  
-  justify-content: center;
-}
+  justify-content: center;}
 
 #pc{
 color: rgb(63, 98, 179);
@@ -32,8 +29,7 @@ margin-right: 3cm;}
 
 #separacao{border: 2px solid  rgb(63, 98, 179);
     color:  rgb(63, 98, 179);
-    height: 22px;
-}
+    height: 22px;}
 
 
 span{
@@ -69,7 +65,31 @@ h2{
     display: inline;
     position: relative;
     top: 5cm;
-    left:4.2cm;
+    left:4.2cm;}
 
+    h3{
+        font-size: 40px;
+        position: relative;
+        top: 4cm;
+        left: 4cm;
 
+    }
+    #sabermais a{
+border: 2px solid;
+color:white;
+padding: 15px 15px; 
+width: 3cm;
+text-decoration: none;
+border-radius: 30px;
+font-size: 12px;    
+position: relative;
+left: 4.5cm;
+top: 4cm;}
+
+img{
+width: 8cm;
+height: 10cm;
+position: relative;
+left: 26.5cm;
+bottom: 2.5cm;
 }
