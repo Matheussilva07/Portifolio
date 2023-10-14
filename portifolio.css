@@ -24,23 +24,34 @@ margin-right: 10px;}
 
 #nome{
 color: white;
-font-weight: 900;
-margin-right: 3cm;}
+font-weight: 1000;
+margin-right: 3cm;
+font-size: 20px;}
+
+P{ display: inline;
+    color:  rgb(63, 98, 179);
+}
 
 #separacao{border: 2px solid  rgb(63, 98, 179);
     color:  rgb(63, 98, 179);
     height: 22px;}
 
 
-span{
+span a{
 border: 1px;
 color: white;
 font-weight: 800;
-margin-right: 25px;}
+margin-right: 25px;
+text-decoration: none;
+
+
+
+
+}
 
 #simbolosearch{
 color: white;
-font-size: 20px;
+font-size: 25px;
 margin-right: 1cm;
 
 }
@@ -88,8 +99,10 @@ top: 4cm;}
 
 img{border-radius: 20px;
 width: 8cm;
-height: 10cm;
+height: 13cm;
 position: relative;
 left: 26.5cm;
-bottom: 2.5cm;
+bottom: 3cm;
+outline: 5px solid  rgb(63, 98, 179);
 }
+
